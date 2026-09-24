@@ -9,4 +9,4 @@ An empirical econometric project analyzing the lag and directionality between Mo
 ## Setup & Execution
 Run the python script:
 ```bash
-python main_2.py
+python main.py
